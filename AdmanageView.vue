@@ -1,3 +1,4 @@
+modify B3
 <template>
   <div class="content1">
     <router-view></router-view>
