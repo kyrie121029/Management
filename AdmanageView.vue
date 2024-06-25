@@ -1,3 +1,4 @@
+C42
 <template>
   <div class="content1">
     <router-view></router-view>

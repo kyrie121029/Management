@@ -1,3 +1,4 @@
+C43
 <template>
   <div class="admin-home">
     <div class="sidebar">
